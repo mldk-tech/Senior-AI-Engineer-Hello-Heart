@@ -1,4 +1,4 @@
-# Hello Heart AI Assistant
+# Hello Heart AI Assistant POC
 
 A production-ready conversational AI assistant for personalized health insights and monitoring, specifically designed for www.helloheart.com.
 
@@ -430,8 +430,8 @@ This project is licensed under the AGPL-3.0 License - see the LICENSE file for d
 - Provide system information and logs
 
 ### Contact
-- Email: support@helloheart.com
-- Website: https://www.helloheart.com
+- Email: mldkmsg@gmail.com
+- Website: https://www.mldk.tech
 
 ## 🎯 Roadmap
 
@@ -455,4 +455,4 @@ This project is licensed under the AGPL-3.0 License - see the LICENSE file for d
 
 ---
 
-**Hello Heart AI Assistant** - Empowering users with AI-driven health insights and personalized wellness guidance.
+**Hello Heart AI Assistant POC** - Empowering users with AI-driven health insights and personalized wellness guidance.
