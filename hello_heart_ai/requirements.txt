@@ -1,0 +1,37 @@
+# Core dependencies
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+
+# LangChain and LangGraph
+langchain-core>=0.1.0
+langchain-openai>=0.1.0
+langgraph>=0.1.0
+
+# Vector embeddings and storage for RAG
+langchain-community>=0.0.10
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+
+# Optional: FastAPI for API endpoints
+fastapi>=0.100.0
+uvicorn>=0.20.0
+
+# Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+
+# Development
+black>=23.0.0
+isort>=5.12.0
+flake8>=6.0.0
+mypy>=1.0.0
+
+# Logging and monitoring
+structlog>=23.0.0
+
+# Data validation and serialization
+jsonschema>=4.17.0 
+psutil
+prometheus_client
+jose

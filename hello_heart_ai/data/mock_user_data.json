@@ -1,0 +1,37 @@
+{
+  "user_id": "user123",
+  "blood_pressure": {
+    "latest": {
+      "systolic": 128,
+      "diastolic": 82,
+      "timestamp": "2024-01-15T08:30:00Z"
+    },
+    "trend": "improving",
+    "weekly_avg": {
+      "systolic": 132,
+      "diastolic": 85,
+      "timestamp": "2024-01-15T08:30:00Z"
+    }
+  },
+  "heart_rate": {
+    "resting_avg": 68,
+    "active_avg": 120,
+    "hrv": {
+      "current": 45,
+      "weekly_avg": 42
+    }
+  },
+  "steps": {
+    "today": 6500,
+    "weekly_total": 41000,
+    "weekly_goal": 49000,
+    "daily_avg": 5857
+  },
+  "sleep": {
+    "last_night": {
+      "hours": 7.2,
+      "quality_score": 78
+    },
+    "weekly_avg_hours": 6.8
+  }
+} 
