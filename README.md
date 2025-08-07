@@ -1,6 +1,6 @@
 # Hello Heart AI Assistant POC
 
-A production-ready conversational AI assistant for personalized health insights and monitoring, specifically designed for www.helloheart.com.
+A POC for a production-ready conversational AI assistant for personalized health insights and monitoring, specifically designed for www.helloheart.com.
 
 ## 🚀 Features
 
